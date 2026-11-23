@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OfertaCheck</string>
+    <string name="service_desc">Citește oferta afișată în Uber/Bolt Driver și arată câștigul pe km.</string>
+</resources>
