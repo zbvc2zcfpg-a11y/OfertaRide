@@ -7,6 +7,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+                <activity android:name=".CarSettingsActivity" android:exported="false" android:label="Mașina ta"/>
         <service android:name=".OfferService" android:exported="false"
             android:label="@string/app_name"
             android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
